@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to CodingMonkey365's Pages
 
 You can use the [editor on GitHub](https://github.com/CodingMonkey365/CodingMonkey365.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
